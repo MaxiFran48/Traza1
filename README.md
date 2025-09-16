@@ -1,5 +1,5 @@
 # TP TRAZA 1 - DESARROLLO DE SOFTWARE
-
+Estudiante: Máximo Fran
 
 ## Detalles del codigo
 Este es un proyecto que tiene como objetivo la simulación de un proyecto en Java aplicando JPA, en un reducido sistema de empresas.
